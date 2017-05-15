@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "particl-bitcore-lib": "file:../particl-bitcore-lib",
-    "particl-bitcore-message": "file:../particl-bitcore-message",
+    "particl-bitcore-lib": "git://github.com/particl/particl-bitcore-lib",
+    "particl-bitcore-message": "git://github.com/particl/particl-bitcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
