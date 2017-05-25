@@ -1,7 +1,7 @@
 {
   "name": "particl-insight-api",
   "description": "A Particl blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "repository": "git://github.com/particl/particl-insight-api.git",
   "contributors": [
     {
