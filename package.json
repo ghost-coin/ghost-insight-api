@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "ghost-bitcore-lib": "git+ssh://github.com/ghost-coin/ghost-bitcore-lib",
-    "ghost-bitcore-message": "git+ssh://github.com/ghost-coin/ghost-bitcore-message",
+    "ghost-bitcore-lib": "git://github.com/ghost-coin/ghost-bitcore-lib",
+    "ghost-bitcore-message": "git://github.com/ghost-coin/ghost-bitcore-message",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
